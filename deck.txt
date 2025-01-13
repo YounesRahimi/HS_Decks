@@ -1,0 +1,33 @@
+### Odd Paladin
+# Class: Paladin
+# Format: Wild
+#
+# 1x (1) Animated Broomstick
+# 2x (1) Blessing of Might
+# 2x (1) Blessing of Wisdom
+# 2x (1) Brazen Zealot
+# 1x (1) Competitive Spirit
+# 2x (1) Crystology
+# 1x (1) Imprisoned Sungill
+# 2x (1) Leper Gnome
+# 2x (1) Lost in the Jungle
+# 2x (1) Never Surrender!
+# 2x (1) Righteous Cause
+# 2x (1) Righteous Protector
+# 2x (1) Tour Guide
+# 2x (3) Divine Favor
+# 2x (3) Muster for Battle
+# 1x (3) Prince Renathal
+# 2x (3) Steward of Darkshire
+# 1x (3) Sword of Justice
+# 2x (3) Warhorse Trainer
+# 1x (5) Blessing of Authority
+# 1x (5) Leeroy Jenkins
+# 1x (5) Libram of Justice
+# 1x (5) Lothraxion the Redeemed
+# 2x (5) Quartermaster
+# 1x (9) Baku the Mooneater
+#
+AAEBAZ8FCq8EgwXYFJ74Asi4A8q4A5XNA7/RA4feA5fvBA9GkgWnBd0K7A/tD9MT/68CuMcC48sC2f4CjpoDyKQDjK0Dm80DAAA=
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
